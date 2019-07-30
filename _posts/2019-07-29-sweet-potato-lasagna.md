@@ -3,15 +3,20 @@ date: 2019-07-29
 title: Sweet Potato Lasagna
 permalink: /:title/
 categories:
-  - Dinner
-  - Longer Prep
+  # - Super quick
+  # - Weekday meals
+  - Longer prep
+  # - Pantry essentials
+  # - Instant Pot/No heat
   - Guests are coming!
+  # - We're going to a party!
+  # - Sweet Treats
 featured_image: https://engine2diet.com/wp-content/uploads/2017/06/RaiseTheRoofSweetPotatoLasagna5081.jpg
 recipe:
-  servings: 12 cupcakes
+  servings: 8 big portions
   prep: 45 minutes
   cook: 60 minutes
-  source: <a href="https://engine2diet.com/blog/top-engine-2-recipes-raise-the-roof-sweet-potato-lasagna/">Engine 2</a>
+  source: From <a href="https://engine2diet.com/blog/top-engine-2-recipes-raise-the-roof-sweet-potato-lasagna/">Engine 2</a>
   ingredients_markdown: |-
     **Filling**
 
