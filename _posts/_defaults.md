@@ -17,6 +17,8 @@ recipe:
   prep:
   cook:
   source: From <a href="link">name</a>
-  ingredients_markdown:
-  directions_markdown:
+  ingredients_markdown: |-
+    *
+  directions_markdown:  |-
+    1.
 ---

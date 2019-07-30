@@ -1,5 +1,5 @@
 ---
-date: 2019-07-29
+date: 2019-07-24
 title: Sweet Potato Lasagna
 permalink: /:title/
 categories:
