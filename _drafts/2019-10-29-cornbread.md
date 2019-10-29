@@ -1,10 +1,10 @@
 ---
-date:
-title:
+date: 2019-10-29
+title: Cornbread
 permalink: /:title/
 categories:
   # - Super quick
-  # - Weekday meals
+  - Weekday meals
   # - Longer prep
   # - Pantry essentials
   # - Instant Pot/No heat
