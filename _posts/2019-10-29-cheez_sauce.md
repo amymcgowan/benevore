@@ -1,6 +1,6 @@
 ---
-date:
-title:
+date: 2019-10-29
+title: Cheez Sauce
 permalink: /:title/
 categories:
   - Super quick
