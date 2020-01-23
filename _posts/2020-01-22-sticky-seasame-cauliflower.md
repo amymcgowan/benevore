@@ -11,12 +11,12 @@ categories:
   # - Guests are coming!
   # - We're going to a party!
   # - Sweet Treats
-featured_image: # 1560 x 940
+featured_image: https://i.imgur.com/skhnFQD.png
 recipe:
   servings: 4
   prep: 20 min
   cook: 25 min
-  source: From <a href="link">My Darling Vegan</a>
+  source: From <a href="https://www.mydarlingvegan.com/sticky-sesame-cauliflower-baked/">My Darling Vegan</a>
   ingredients_markdown: |-
     BATTERED CAULIFLOWER
     * 1/2 lg cauliflower, broken to bite-sized chunks

@@ -11,12 +11,12 @@ categories:
   # - Guests are coming!
   # - We're going to a party!
   - Sweet Treats
-featured_image: # 1560 x 940
+featured_image: https://i.imgur.com/JnvbFaF.png
 recipe:
   servings: 22
   prep: 45 min
   cook: 12 min
-  source: From <a href="link">name</a>
+  source: From <a href="https://minimalistbaker.com/vegan-pumpkin-sugar-cookies/">Minimalist Baker</a>
   ingredients_markdown: |-
     * 1/2 c vegan butter, softened
     * 1/2 c cane sugar
