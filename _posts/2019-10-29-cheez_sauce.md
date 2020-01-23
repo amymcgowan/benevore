@@ -3,7 +3,7 @@ date: 2019-10-29
 title: Cheez Sauce
 permalink: /:title/
 categories:
-  - Super quick
+  # - Super quick
   # - Weekday meals
   # - Longer prep
   - Pantry essentials
