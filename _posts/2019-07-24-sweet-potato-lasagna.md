@@ -11,7 +11,7 @@ categories:
   - Guests are coming!
   # - We're going to a party!
   # - Sweet Treats
-featured_image: https://engine2diet.com/wp-content/uploads/2017/06/RaiseTheRoofSweetPotatoLasagna5081.jpg
+featured_image: https://i.imgur.com/zK96ksA.png
 recipe:
   servings: 8 big portions
   prep: 45 minutes
